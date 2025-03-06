@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aarondemingg
 - 👀 I’m interested in microbiome studies 
 - 🌱 I’m currently learning random things on python
-- 💞️ I’m looking to collaborate on any microbiome research projects so that I can improve 
+- 💞️ I’m looking to collaborate on any microbiome research projects so that I can improve as a Scientist! 
 - 📫 How to reach me through my personal email! aarondeming@gmail.com
 
 <!---
